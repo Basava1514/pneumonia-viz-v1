@@ -1,6 +1,6 @@
 # Pneumonia Detection — ViT + U-Net
 
-Personal research project for pneumonia detection on chest X-rays using Vision Transformer and U-Net lung segmentation.
+A research project for pneumonia detection on chest X-rays using Vision Transformer and U-Net lung segmentation.
 
 ## Features
 - ViT classifier
@@ -21,5 +21,5 @@ Kaggle: paultimothymooney/chest-xray-pneumonia
 scripts/download_data.sh fetches it (requires kaggle CLI)
 
 ## Notes
-- This is personal research; not for clinical use.
+- This is a research; not for clinical use.
 - Do not commit large model weights; use Hugging Face or Google Drive links.
