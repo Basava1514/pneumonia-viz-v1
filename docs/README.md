@@ -1,5 +1,7 @@
 # Pneumonia Detection — ViT + U-Net
 
+[![CI](https://github.com/Basava1514/pneumonia-viz-v1/actions/workflows/ci.yml/badge.svg)](https://github.com/Basava1514/pneumonia-viz-v1/actions/workflows/ci.yml)
+
 A research project for pneumonia detection on chest X-rays using Vision Transformer and U-Net lung segmentation.
 
 ## Features
