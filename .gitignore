@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# Data & model weights (do NOT commit)
+data/
+*.pt
+*.h5
+*.ckpt
+weights/
+unet_segmentation.pt
+vit_pneumonia_best.pt
+
+# Feedback logs & reports
+feedback_dataset.jsonl
+feedback_log.json
+model_meta.json
+reports/
+temp_input/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
